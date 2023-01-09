@@ -29,7 +29,7 @@ under the License.
 
     语法：
 
-        ADMIN DIAGNOSE TABLET tblet_id
+        ADMIN DIAGNOSE TABLET tablet_id
 
     说明：
 
